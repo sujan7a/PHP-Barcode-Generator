@@ -37,7 +37,7 @@
 	
 <body>
 	
-	<form action="barcode.php" method="post">
+	<form action="code_128.php" method="post">
 		
 		Enter Your Text Here: <input type="text" style="width:200px;" name="text" />
 		<input type="submit" value="Create Barcode >" />
